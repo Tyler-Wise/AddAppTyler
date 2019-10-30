@@ -14,14 +14,14 @@ public class ControllerMain {
 		
 		
 		//task 3: add a listener event to a button
-		/* view.tapButton.addActionListener((ActionListener) new ActionListener() {
+		 view.tapButton.addActionListener((ActionListener) new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				//model.x = Integer.parseInt(view.textFieldX.getText());
 				//model.y = Integer.parseInt(view.textFieldY.getText());
 				updateModel();
 				updateView();
 			}
-		});*/
+		});
 	}
 
 	private static void updateView() {
